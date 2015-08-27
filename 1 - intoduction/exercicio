@@ -13,7 +13,6 @@ Change directory into the javascripting folder:
 cd javascripting
 
 Create a file named introduction.js:
-
 touch introduction.js or if you're on windows, type NUL > introduction.js (type
 is part of the command!)
 
@@ -25,14 +24,3 @@ Save the file, then check to see if your program is correct by running this comm
 and:
 
 javascripting verify introduction.js
-
--------------------
-Need help? View the README for this workshop: [http://github.com/sethvincent/jav
-ascripting](http://github.com/sethvincent/javascripting)
-
-
- » To print these instructions again, run: javascripting print
- » To execute your program in a test environment, run: javascripting run program
-.js
- » To verify your program, run: javascripting verify program.js
- » For help run: javascripting help
